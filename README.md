@@ -7,11 +7,8 @@ This Python script fetches user details from a public API endpoint using the GET
 ## Task Overview
 
 - Calls the public API:
-```
-
 [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users)
 
-```
 - Displays for each user:
 - Name
 - Username
